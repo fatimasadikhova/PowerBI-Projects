@@ -6,4 +6,4 @@ This folder contains standalone Power BI reports that I created to visualize and
    - **Description**: This Power BI project is designed to provide a comprehensive overview of Adventure Works' business operations, focusing on sales performance, product analysis,   customer insights, and geographic distribution.
    - **Target Audience**: The dashboard is tailored for business analysts, sales managers, and executives to monitor key metrics, identify trends, and make data-driven decisions. 
    - **Tools**: Power BI
-   - **Folder**: ``
+   - **Folder**: `Production reporting.pbix` `Sales, purchase and product report.pbix`  `Hr reporting.pbix`
