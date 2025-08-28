@@ -1,4 +1,4 @@
-# Power BI Reports
+# Power BI Projects
 
 This folder contains standalone Power BI reports that I created to visualize and analyze data. Each report demonstrates my ability to transform raw data into actionable insights using interactive dashboards
 
